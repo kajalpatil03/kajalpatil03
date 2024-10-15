@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on 
-- 👯 I’m LEARNING **
+- 👯 I’m LEARNING *Java, Android Studio*
 
 - 💬 Ask me about ** **
 
